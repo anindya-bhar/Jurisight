@@ -1,0 +1,25 @@
+.textbox
+{
+    display: flex;
+    height: 10vh;
+    padding: 10px;
+}
+.prompt
+{
+    flex: 1;
+    margin: 10px;
+    padding-left: 20px;
+    border-radius: 5px;
+    border: 1px #0008 solid;
+}
+.send
+{
+
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+}
+.send-button
+{
+    height: 40px;
+}

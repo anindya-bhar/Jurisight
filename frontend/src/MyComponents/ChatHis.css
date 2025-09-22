@@ -1,0 +1,33 @@
+.chat-history
+{
+    display: flex;
+    min-height: 70vh;
+    flex-direction: column;
+    border: 1px solid #0002;
+    padding: 16px;
+}
+.chat-ai
+{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 10px 0;
+}
+.chat-user
+{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin: 15px 0;
+}
+.chat-logo
+{
+    height: 30px;
+}
+.chat-text
+{
+    background-color: #ADD8E644;
+    padding: 2px 15px;
+    border-radius: 3px;
+}
+/* ::placeholder */

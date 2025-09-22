@@ -1,0 +1,9 @@
+runtime: python39
+service: jurisight-api
+
+env_variables:
+  GOOGLE_CLOUD_PROJECT: jurisight
+  
+automatic_scaling:
+  min_instances: 1
+  max_instances: 10

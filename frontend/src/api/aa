@@ -1,0 +1,34 @@
+import axios from 'axios';
+
+// Define the base URL of your backend API
+const API_BASE_URL = 'http://localhost:8000';
+
+// Create a configured instance of axios
+const api = axios.create({
+  baseURL: API_BASE_URL,
+  headers: {
+    'Content-Type': 'application/json'
+  }
+});
+
+// Define your API service methods
+export const jurisightService = {
+  // Method for processing text
+  processDocument: (data) => {
+    return api.post('/api/process', data);
+  },
+
+  // Method for uploading a file (uses a different header)
+  uploadFile: (formData) => {
+    return api.post('/api/upload', formData, {
+      headers: {
+        'Content-Type': 'multipart/form-data'
+      }
+    });
+  },
+
+  // You can add other API methods here as needed
+  chat: (data) => {
+    return api.post('/api/chat', data);
+  }
+};

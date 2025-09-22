@@ -1,0 +1,93 @@
+.left
+{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100%;
+}
+.left-title
+{
+    font-weight: boldS;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.upload-file
+{
+    border: 3px dotted #0008;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 20px 30px;
+    /* width: 80%; */
+    margin: 10px;
+}
+.file-up
+{
+    display: none;
+}
+.file-up-label
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.file-up-photo
+{
+    height: 50px;
+    width: 50px;
+}
+.file-up-text
+{
+    font-size: 20px;
+    color: #61dbfb;
+    font-weight: 500;
+}
+.file-type
+{
+    font-size: 12px;
+    color: #0008;
+}
+.left-sub
+{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.process-button
+{
+    width: 90%;
+    margin: 10px;
+    padding: 20px;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+    background-color: blue;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    /* background-image: linear-gradient(to right, blue, violet); */
+}
+.type-radio
+{
+    margin-left: 0;
+}
+.type-div
+{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin: 5px;
+    margin-left: 0;
+}
+.type-text
+{
+    margin-left: 4px;
+    font-size: 18px;
+}
