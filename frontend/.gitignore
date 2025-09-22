@@ -23,17 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 
-/jurisight_service_account_key.json
-{
-  "type": "service_account",
-  "project_id": "jurisight",
-  "private_key_id": "8cbeb12938f1840e09a4f332993f4b8afa645574",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGljy8nJnCbmy9\nHgayX0Hsb5m8wMC0xXiuSqYTJzY606kjYQkcYtWQUCp1hNP0/PCaK91RXC4py+Q4\nsaF/bBs3pdtFmUjZ9O7og6W7bVilpBdAwRelVoZZGK1mWapECF4mFONnDav5Tr4o\naxlBp2o1Me7DI42/FcWuMlUHhYmuocOZKAlxno7x3nOEMEpZMT2gRXbrnF8EnZyl\n/hmH1A8IRHObvfyv+AyqG1WREqqqqKjIJnAwgRUT0xRHMVEUEjI5GCikFE6T89LV\nAekSN3ZjaXpEA022pJW9b2CsETAymb+fso14aS9sqrkjnmFdCdJ59A2PS0KMOlv2\nFINTefnzAgMBAAECggEACoIwvJpc2JkXT/qiyBWaW3ScYgyhJe+9LxvsJd9RU1OY\nA7NC1Cm2u2hClu1see5YnQ/tKj0ChFuxu/5KWX/TAOLZ85jk7gO0EMHGp2Bl7H3+\nbQLKyYkGmvhfVKcyB1+Z+9HnJrDmhM7R6TmhoIPHbwExbUoYWiBA0bMAJOHAI2l7\n/t+xFNwkU/QY4C2CRuwtHa4ijDXOI5iaGHaKwGPo3UQ1O4teZ4tN8+IzI622vdiz\n6VkIl8UkY7kBkqBAXhLBfmPhm9mEzLVD9zxva14wqxYbYd956MJ2JO8ZS7nX3Se+\nVDFA0BcIbLWsG/rfhdY7RAf7crOuNPJKWOjpPU4ToQKBgQD58vaMviAMjkWD/aAP\nhI+B4LSiWC4jVHU3+DdEYw2G8HRRv0th8ScTehPlivge2n//iRSIVOsjkn3nGFJ2\nge8/i3Dl383g2NU9WPm66u2FbCt7NF0wgZHN03tI36ndXR0XdaplziOwK8eBuhjK\nS/DM38Kkp8WuCgRgpH0KR2HFFQKBgQDLZPYkFEC1wlkYjEr0hjQvW4YvDQ5kVQMQ\ncqzoHqx0hLBakkpNwodXJMwpBSenmd62rW56QLxRG/OkNFiUa4VOILUjfOJIqF1t\nSmWVzuJMZ9SylmByOlxiYqCpdC5d1Th8w5qJAWNIDolkwxBnecoaZkfjifw2RVkr\nzV1w6U2U5wKBgQDI05eXk/eKPxHJsJHXhgoML7DTNAi2KFkahFxbnT60KiU7vXjj\nE/DyrEaqS1N67tKjTc/qjlhzt3Njp94yC8pggzhN6tmvjGkhJolYzwPTDQuOrY8m\ntySgfQh0kAkarIMAY3Fq5Qs1tKdTK2RZvlSXOD5bL9YcNT45LFCvXpVG1QKBgCAm\n/aIGcZRJ/LucsdylumoiFbwqXDQQHEPlXN/0uV5R+27V4VkZfzuPXZa+cd5UvJg0\nIlrBEQPhX0p92+LafGA1W20YuMyzkNFOCXD9G1josP7qNqTYBPKolK006H98zUkr\nwqoVxhQF+EItc9JntkMmGAcoMO6DV+1MsZC/0LvRAoGBAOvnWEn6WbprGVNJfR9h\n7y26OOxpK8qVtgXZbQMWdlTQfPenQs0LbP49nWT7FWxpCdLP2zdJOYp3RuACA5S0\nRl51XQT8jcB1uZgq+FujsYaOhX5O/GARAhigPF26SAiPu1XjXsi9ICa0PeuGtPKZ\nDWSmzTm4JsksUh4mlwKgdO/v\n-----END PRIVATE KEY-----\n",
-  "client_email": "jurisight-legal-ai@jurisight.iam.gserviceaccount.com",
-  "client_id": "114149668749494088621",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jurisight-legal-ai%40jurisight.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
